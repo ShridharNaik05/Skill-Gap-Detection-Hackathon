@@ -7,7 +7,7 @@ Many students and job seekers are unaware of the specific skills required for di
 This project provides a prototype system that analyzes a candidate’s existing skills (through manual input or resume-based data) and compares them with job-role-specific skill requirements. The system identifies missing skills (skill gaps) and presents insights that help candidates understand their employment readiness and areas for improvement.
 
 
-##team details
+##Team details
 Team name: Digital Dreamers
 Member 1: Shubham Prakash Aranha
 Member 2:Shridhar R Naik
