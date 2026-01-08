@@ -8,9 +8,10 @@ This project provides a prototype system that analyzes a candidate’s existing 
 
 
 ##Team details
-Team name: Digital Dreamers
-Member 1: Shubham Prakash Aranha
-Member 2:Shridhar R Naik
-Member 3:Tejashree H
-Member 4:Sanjana S
+- **Team Name:** Digital Dreamers
+- **Member 1:** Shubham Prakash Aranha
+- **Member 2:** Shridhar R Naik
+- **Member 3:** Tejashree H
+- **Member 4:** Sanjana S
+
 
